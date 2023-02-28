@@ -1,0 +1,929 @@
+
+{
+    "//": "Saturn was proudly coded by wrxyut (https://github.com/wrxyut)",
+    "//": "Copyright (c) 2022 wrxyut.",
+    "//": "Saturn under the GNU GENERAL PUBLIC LICENSE Version3 (2007)",
+
+    "105": {
+        "NAME_CASE1": "_lianpo",
+        "NAME_CASE2": "105_LianPo",
+        "BYTES_INFO": "105_lianpo_actorinfo.bytes",
+        "LOD": "_LianPo",
+        "NAME": "Toro"
+    },
+    
+    "106": {
+        "NAME_CASE1": "_xiaoqiao",
+        "NAME_CASE2": "106_XiaoQiao",
+        "BYTES_INFO": "106_xiaoqiao_actorinfo.bytes",
+        "LOD": "_XiaoQiao",
+        "NAME": "Krixi"
+    },
+
+    "107": {
+        "NAME_CASE1": "_zhaoyun",
+        "NAME_CASE2": "107_Zhaoyun",
+        "BYTES_INFO": "107_zhaoyun_actorinfo.bytes",
+        "LOD": "_Zhaoyun",
+        "NAME": "Zephys"
+    },
+
+    "108": {
+        "NAME_CASE1": "_modi",
+        "NAME_CASE2": "108_MoDi",
+        "BYTES_INFO": "108_modi_actorinfo.bytes",
+        "LOD": "_MoZi",
+        "NAME": "Gildur"
+    },
+    
+    "109": {
+        "NAME_CASE1": "_daji",
+        "NAME_CASE2": "109_DaJi",
+        "BYTES_INFO": "109_Daji_actorinfo.bytes",
+        "LOD": "_Daji",
+        "NAME": "Veera"
+    },
+    
+    "110": {
+        "NAME_CASE1": "_yingzheng",
+        "NAME_CASE2": "110_YingZheng",
+        "BYTES_INFO": "110_YingZheng_actorinfo.bytes",
+        "LOD": "_YingZheng",
+        "NAME": "Kahlii"
+    },
+
+    "111": {
+        "NAME_CASE1": "_sunshangxiang",
+        "NAME_CASE2": "111_SunShangXiang",
+        "BYTES_INFO": "111_SunShangXiang_actorinfo.bytes",
+        "LOD": "_SunShangXiang",
+        "NAME": "Violet"
+    },
+
+    "112" : {
+        "NAME_CASE1": "_gongshuban",
+        "NAME_CASE2": "112_GongShuBan",
+        "BYTES_INFO": "112_GongShuBan_actorinfo.bytes",
+        "LOD": "_GonShuBan",
+        "NAME": "Yorn"
+    },
+
+    "113": {
+        "NAME_CASE1": "_zhuangzhou",
+        "NAME_CASE2": "113_ZhuangZhou",
+        "BYTES_INFO": "113_ZhuangZhou_actorinfo.bytes",
+        "LOD": "_ZhuangZhou",
+        "NAME": "Chaugnar"
+    },
+
+    "114": {
+        "NAME_CASE1": "_Omega",
+        "NAME_CASE2": "114_Omega",
+        "BYTES_INFO": "114_Omega_actorinfo.bytes",
+        "LOD": "_Omega",
+        "NAME": "Omega"
+    },
+
+    "115": {
+        "NAME_CASE1": "_gaojianli",
+        "NAME_CASE2": "115_GaoJianLi",
+        "BYTES_INFO": "115_GaoJianLi_actorinfo.bytes",
+        "LOD": "_GaoJianLi",
+        "NAME": "Jinna"
+    },
+
+    "116": {
+        "NAME_CASE1": "_jingke",
+        "NAME_CASE2": "116_JingKe",
+        "BYTES_INFO": "116_JingKe_actorinfo.bytes",
+        "LOD": "_JingKe_CT_Body",
+        "NAME": "Butterfly"
+    },
+
+    "117": {
+        "NAME_CASE1": "_zhongwuyan",
+        "NAME_CASE2": "117_ZhongWuYan",
+        "BYTES_INFO": "117_ZhongWuYan_actorinfo.bytes",
+        "LOD": "_ZhongWuYan",
+        "NAME": "Ormarr"
+    },
+
+    "118": {
+        "NAME_CASE1": "_sunbin",
+        "NAME_CASE2": "118_SunBin",
+        "BYTES_INFO": "118_SunBin_actorinfo.bytes",
+        "LOD": "_SunBin",
+        "NAME": "Alice"
+    },
+
+    "119": {
+        "NAME_CASE1": "_bianque",
+        "NAME_CASE2": "119_BianQue",
+        "BYTES_INFO": "119_BianQue_actorinfo.bytes",
+        "LOD": "_BianQue",
+        "NAME": "Mganga"
+    },
+
+    "120": {
+        "NAME_CASE1": "_baiqi",
+        "NAME_CASE2": "120_BaiQi",
+        "BYTES_INFO": "120_BaiQi_actorinfo.bytes",
+        "LOD": "_BaiQi",
+        "NAME": "Mina"
+    },
+
+    "121": {
+        "NAME_CASE1": "_miyue",
+        "NAME_CASE2": "121_MiYue",
+        "BYTES_INFO": "121_MiYue_actorinfo.bytes",
+        "LOD": "_MiYue",
+        "NAME": "Marja"
+    },
+
+    "123": {
+        "NAME_CASE1": "_lvbu",
+        "NAME_CASE2": "123_LvBu",
+        "BYTES_INFO": "123_LvBu_actorinfo.bytes",
+        "LOD": "_LvBu",
+        "NAME": "Maloch"
+    },
+
+    "124": {
+        "NAME_CASE1": "_zhouyu",
+        "NAME_CASE2": "124_ZhouYu",
+        "BYTES_INFO": "124_ZhouYu_actorinfo.bytes",
+        "LOD": "_ZhouYu",
+        "NAME": "Ignis"
+    },
+
+    "126": {
+        "NAME_CASE1": "_xiahoudun",
+        "NAME_CASE2": "126_XiaHouDun",
+        "BYTES_INFO": "126_XiaHouDun_actorinfo.bytes",
+        "LOD": "_XiaHouDun",
+        "NAME": "Arduin"
+    },
+
+    "127": {
+        "NAME_CASE1": "_zhenji",
+        "NAME_CASE2": "127_ZhenJi",
+        "BYTES_INFO": "127_ZhenJi_actorinfo.bytes",
+        "LOD": "_ZhenJi",
+        "NAME": "Azzen 'Ka"
+    },
+
+    "128": {
+        "NAME_CASE1": "_caocao",
+        "NAME_CASE2": "128_CaoCao",
+        "BYTES_INFO": "128_CaoCao_actorinfo.bytes",
+        "LOD": "_CaoCao",
+        "NAME": "Lubu"
+    },
+    
+    "129": {
+        "NAME_CASE1": "_dianwei",
+        "NAME_CASE2": "129_DianWei",
+        "BYTES_INFO": "129_DianWei_actorinfo.bytes",
+        "LOD": "_DianWei",
+        "NAME": "Zanis"
+    },
+
+    "130": {
+        "NAME_CASE1": "_gongbenwuzang",
+        "NAME_CASE2": "130_GongBenWuZang",
+        "BYTES_INFO": "130_GongBenWuZang_actorinfo.bytes",
+        "LOD": "_GongBenWuZang",
+        "NAME": "Airi"
+    },
+
+    "131": {
+        "NAME_CASE1": "_libai",
+        "NAME_CASE2": "131_LiBai",
+        "BYTES_INFO": "131_LiBai_actorinfo.bytes",
+        "LOD": "_LiBai",
+        "NAME": "Murad"
+    },
+
+    "132": {
+        "NAME_CASE1": "_makeboluo",
+        "NAME_CASE2": "132_MaKeBoluo",
+        "BYTES_INFO": "132_MaKeBoLuo_actorinfo.bytes",
+        "LOD": "_MaKeBoLuo",
+        "NAME": "Hayate"
+    },
+
+    "133": {
+        "NAME_CASE1": "_direnjie",
+        "NAME_CASE2": "133_DiRenJie",
+        "BYTES_INFO": "133_DiRenJie_actorinfo.bytes",
+        "LOD": "_DiRenJie",
+        "NAME": "Valhein"
+    },
+
+    "134": {
+        "NAME_CASE1": "_tangsanzang",
+        "NAME_CASE2": "134_TangSanZang",
+        "BYTES_INFO": "134_TangSanZang_actorinfo.bytes",
+        "LOD": "_TangSanZang",
+        "NAME": "Skud"
+    },
+
+    "135": {
+        "NAME_CASE1": "_xiangyu",
+        "NAME_CASE2": "135_XiangYu",
+        "BYTES_INFO": "135_XiangYu_actorinfo.bytes",
+        "LOD": "_XiangYu",
+        "NAME": "Thane"
+    },
+
+    "136": {
+        "NAME_CASE1": "_wuzetian",
+        "NAME_CASE2": "136_WuZeTian",
+        "BYTES_INFO": "136_WuZeTian_actorinfo.bytes",
+        "LOD": "_WuZeTian",
+        "NAME": "Ilumaia"
+    },
+
+    "137": {
+        "NAME_CASE1": "_simayi",
+        "NAME_CASE2": "137_SiMaYi",
+        "BYTES_INFO": "137_SiMaYi_actorinfo.bytes",
+        "LOD": "_SiMaYi",
+        "NAME": "Paine"
+    },
+
+    "139": {
+        "NAME_CASE1": "_kongfuzi",
+        "NAME_CASE2": "139_KongFuZi",
+        "BYTES_INFO": "139_KongFuZi_actorinfo.bytes",
+        "LOD": "_KongFuZi",
+        "NAME": "Kill' Groth"
+    },
+
+    "140": {
+        "NAME_CASE1": "_guanyu",
+        "NAME_CASE2": "140_GuanYu",
+        "BYTES_INFO": "140_GuanYu_actorinfo.bytes",
+        "LOD": "_GuanYu",
+        "NAME": "Superman"
+    },
+
+    "141": {
+        "NAME_CASE1": "_diaochan",
+        "NAME_CASE2": "141_Diaochan",
+        "BYTES_INFO": "141_DiaoChan_actorinfo.bytes",
+        "LOD": "_DiaoChan",
+        "NAME": "Lauriel"
+    },
+
+    "142": {
+        "NAME_CASE1": "_caiwenji",
+        "NAME_CASE2": "142_CaiWenJi",
+        "BYTES_INFO": "142_CaiWenJi_actorinfo.bytes",
+        "LOD": "_CaiWenJi",
+        "NAME": "Nataya"
+    },
+
+    "144": {
+        "NAME_CASE1": "_chengyaojin",
+        "NAME_CASE2": "144_ChengYaoJin",
+        "BYTES_INFO": "144_ChengYaoJin_actorinfo.bytes",
+        "LOD": "_ChengYaoJin",
+        "NAME": "Taara"
+    },
+
+    "146": {
+        "NAME_CASE1": "_hongfu",
+        "NAME_CASE2": "146_HongFu",
+        "BYTES_INFO": "146_HongFu_actorinfo.bytes",
+        "LOD": "_HongFu",
+        "NAME": "Zill"
+    },
+
+    "148": {
+        "NAME_CASE1": "_jiangziya",
+        "NAME_CASE2": "148_JiangZiYa",
+        "BYTES_INFO": "148_JiangZiYa_actorinfo.bytes",
+        "LOD": "_JiangZiYa",
+        "NAME": "Preyta"
+    },
+
+    "149": {
+        "NAME_CASE1": "_liubang",
+        "NAME_CASE2": "149_LiuBang",
+        "BYTES_INFO": "149_LiuBang_actorinfo.bytes",
+        "LOD": "_LiuBang",
+        "NAME": "Xeniel"
+    },
+
+    "150": {
+        "NAME_CASE1": "_hanxin",
+        "NAME_CASE2": "150_HanXin",
+        "BYTES_INFO": "150_HanXin_actorinfo.bytes",
+        "LOD": "_HanXin",
+        "NAME": "Nakroth"
+    },
+
+    "152": {
+        "NAME_CASE1": "_wangzhaojun",
+        "NAME_CASE2": "152_WangZhaoJun",
+        "BYTES_INFO": "152_WangZhaoJun_actorinfo.bytes",
+        "LOD": "_WangZhaoJun",
+        "NAME": "Diao Chan"
+    },
+
+    "153": {
+        "NAME_CASE1": "_lanlingwang",
+        "NAME_CASE2": "153_LanLingWang",
+        "BYTES_INFO": "153_LanLingWang_actorinfo.bytes",
+        "LOD": "_LanLingWang",
+        "NAME": "Batman"
+    },
+
+    "154": {
+        "NAME_CASE1": "_HuaMuLan",
+        "NAME_CASE2": "154_HuaMuLan",
+        "BYTES_INFO": "154_HuaMuLan_actorinfo.bytes",
+        "LOD": "_HuaMuLan",
+        "NAME": "Yena"
+    },
+
+    "156": {
+        "NAME_CASE1": "_zhangliang",
+        "NAME_CASE2": "156_ZhangLiang",
+        "BYTES_INFO": "156_ZhangLiang_actorinfo.bytes",
+        "LOD": "_ZhangLiang",
+        "NAME": "Aleister"
+    },
+
+    "157": {
+        "NAME_CASE1": "_buzhihuowu",
+        "NAME_CASE2": "157_BuZhiHuoWu",
+        "BYTES_INFO": "157_BuZhiHuoWu_actorinfo.bytes",
+        "LOD": "_BuZhiHuoWu",
+        "NAME": "Raz"
+    },
+
+    "162": {
+        "NAME_CASE1": "_nakoruru",
+        "NAME_CASE2": "162_Nakoruru",
+        "BYTES_INFO": "162_Nakoruru_actorinfo.bytes",
+        "LOD": "_Nakoruru",
+        "NAME": "Kriknak"
+    },
+
+    "163": {
+        "NAME_CASE1": "_juyoujing",
+        "NAME_CASE2": "163_JuYouJing",
+        "BYTES_INFO": "163_JuYouJing_actorinfo.bytes",
+        "LOD": "_JuYouJing",
+        "NAME": "Ryoma"
+    },
+
+    "166": {
+        "NAME_CASE1": "_yasewang",
+        "NAME_CASE2": "166_YaSeWang",
+        "BYTES_INFO": "166_YaSeWang_actorinfo.bytes",
+        "LOD": "_YaSeWang",
+        "NAME": "Mortos"
+    },
+
+    "167": {
+        "NAME_CASE1": "_wukong",
+        "NAME_CASE2": "167_WuKong",
+        "BYTES_INFO": "167_WuKong_actorinfo.bytes",
+        "LOD": "_SunWuKong",
+        "NAME": "Wukong"
+    },
+
+    "168": {
+        "NAME_CASE1": "_niu",
+        "NAME_CASE2": "168_Niu",
+        "BYTES_INFO": "168_Niu_actorinfo.bytes",
+        "LOD": "_NiuMoWang",
+        "NAME": "Lumburr"
+    },
+
+    "169": {
+        "NAME_CASE1": "_houyi",
+        "NAME_CASE2": "169_HouYi",
+        "BYTES_INFO": "169_HouYi_actorinfo.bytes",
+        "LOD": "_HouYi",
+        "NAME": "Slimz"
+    },
+
+    "170": {
+        "NAME_CASE1": "_liubei",
+        "NAME_CASE2": "170_LiuBei",
+        "BYTES_INFO": "170_LiuBei_actorinfo.bytes",
+        "LOD": "_LiuBei",
+        "NAME": "Moren"
+    },
+
+    "171": {
+        "NAME_CASE1": "_zhangfei",
+        "NAME_CASE2": "171_ZhangFei",
+        "BYTES_INFO": "171_ZhangFei_actorinfo.bytes",
+        "LOD": "_ZhangFei",
+        "NAME": "Cresht"
+    },
+
+    "173": {
+        "NAME_CASE1": "_liyuanfang",
+        "NAME_CASE2": "173_LiYuanFang",
+        "BYTES_INFO": "173_LiYuanFang_actorinfo.bytes",
+        "LOD": "_LiYuanFang",
+        "NAME": "Fennik"
+    },
+
+    "174": {
+        "NAME_CASE1": "_yuji",
+        "NAME_CASE2": "174_YuJi",
+        "BYTES_INFO": "174_YuJi_actorinfo.bytes",
+        "LOD": "_YuJi",
+        "NAME": "Joker"
+    },
+
+    "175": {
+        "NAME_CASE1": "_zhongkui",
+        "NAME_CASE2": "175_ZhongKui",
+        "BYTES_INFO": "175_ZhongKui_actorinfo.bytes",
+        "LOD": "_ZhongKui",
+        "NAME": "Grakk"
+    },
+
+    "177": {
+        "NAME_CASE1": "_chengjisihan",
+        "NAME_CASE2": "177_ChengJiSiHan",
+        "BYTES_INFO": "177_ChengJiSiHan_actorinfo.bytes",
+        "LOD": "_ChengJiSiHan",
+        "NAME": "Lindis"
+    },
+
+    "180": {
+        "NAME_CASE1": "_nezha",
+        "NAME_CASE2": "180_NeZha",
+        "BYTES_INFO": "180_NeZha_actorinfo.bytes",
+        "LOD": "_NeZha",
+        "NAME": "Max"
+    },
+
+    "184": {
+        "NAME_CASE1": "_caiwenji",
+        "NAME_CASE2": "184_CaiWenJi",
+        "BYTES_INFO": "184_CaiWenJi_actorinfo.bytes",
+        "LOD": "_CaiWenJi",
+        "NAME": "Payna"
+    },
+
+    "186": {
+        "NAME_CASE1": "_taiyizhenren",
+        "NAME_CASE2": "186_TaiYiZhenRen",
+        "BYTES_INFO": "186_TaiYiZhenRen_actorinfo.bytes",
+        "LOD": "_TaiYiZhenRen",
+        "NAME": "TeeMee"
+    },
+
+    "187": {
+        "NAME_CASE1": "_donghuangtaiyi",
+        "NAME_CASE2": "187_DongHuangTaiYi",
+        "BYTES_INFO": "187_DongHuangTaiYi_actorinfo.bytes",
+        "LOD": "_DongHuangTaiYi",
+        "NAME": "Arum"
+    },
+    
+    "189": {
+        "NAME_CASE1": "_guiguzi",
+        "NAME_CASE2": "189_GuiGuZi",
+        "BYTES_INFO": "189_GuiGuZi_actorinfo.bytes",
+        "LOD": "_GuiGuZi",
+        "NAME": "Krizzix"
+    },
+
+    "190": {
+        "NAME_CASE1": "_zhugeliang",
+        "NAME_CASE2": "190_ZhuGeLiang",
+        "BYTES_INFO": "190_ZhuGeLiang_actorinfo.bytes",
+        "LOD": "_ZhuGeLiang",
+        "NAME": "Tulen"
+    },
+
+    "191": {
+        "NAME_CASE1": "_daqiao",
+        "NAME_CASE2": "191_DaQiao",
+        "BYTES_INFO": "191_DaQiao_actorinfo.bytes",
+        "LOD": "_DaQiao",
+        "NAME": "Rouie"
+    },
+
+    "192": {
+        "NAME_CASE1": "_huangzhong",
+        "NAME_CASE2": "192_HuangZhong",
+        "BYTES_INFO": "192_HuangZhong_actorinfo.bytes",
+        "LOD": "_HuangZhong",
+        "NAME": "Celica"
+    },
+    
+    "193": {
+        "NAME_CASE1": "_lafeier",
+        "NAME_CASE2": "193_LaFeiEr",
+        "BYTES_INFO": "193_LaFeiEr_actorinfo.bytes",
+        "LOD": "_LaFeiEr",
+        "NAME": "Amily"
+    },
+    
+    "194": {
+        "NAME_CASE1": "_sulie",
+        "NAME_CASE2": "194_SuLie",
+        "BYTES_INFO": "194_SuLie_actorinfo.bytes",
+        "LOD": "_SuLie",
+        "NAME": "Wiro"
+    },
+    
+    "195": {
+        "NAME_CASE1": "_BaiLiXuanCe",
+        "NAME_CASE2": "195_BaiLiXuanCe",
+        "BYTES_INFO": "195_BaiLiXuanCe_actorinfo.bytes",
+        "LOD": "_BaiLiXuanCe",
+        "NAME": "Enzo"
+    },
+    
+    "196": {
+        "NAME_CASE1": "_Elsu",
+        "NAME_CASE2": "196_Elsu",
+        "BYTES_INFO": "196_Elsu_actorinfo.bytes",
+        "LOD": "_Elsu",
+        "NAME": "Elsu"
+    },
+    
+    "199": {
+        "NAME_CASE1": "_li",
+        "NAME_CASE2": "199_Li",
+        "BYTES_INFO": "199_Li_actorinfo.bytes",
+        "LOD": "_Li",
+        "NAME": "Eland'orr"
+    },
+    
+    "501": {
+        "NAME_CASE1": "_TelAnnas",
+        "NAME_CASE2": "501_TelAnnas",
+        "BYTES_INFO": "501_TelAnnas_actorinfo.bytes",
+        "LOD": "_TelAnnas",
+        "NAME": "Tel'Annas"
+    },
+    
+    "502": {
+        "NAME_CASE1": "_astrid",
+        "NAME_CASE2": "502_Astrid",
+        "BYTES_INFO": "502_Astrid_actorinfo.bytes",
+        "LOD": "_Astrid",
+        "NAME": "Astrid"
+    },
+    
+    "503": {
+        "NAME_CASE1": "_zuka",
+        "NAME_CASE2": "503_Zuka",
+        "BYTES_INFO": "503_Zuka_ActorInfo.bytes",
+        "LOD": "_Zuka",
+        "NAME": "Zuka"
+    },
+    
+    "504": {
+        "NAME_CASE1": "_WonderWoman",
+        "NAME_CASE2": "504_WonderWoman",
+        "BYTES_INFO": "504_WonderWoman_actorinfo.bytes",
+        "LOD": "_WonderWoman",
+        "NAME": "Wonder Woman"
+    },
+    
+    "505": {
+        "NAME_CASE1": "_Baldum",
+        "NAME_CASE2": "505_Baldum",
+        "BYTES_INFO": "505_Baldum_actorinfo.bytes",
+        "LOD": "_Baldum",
+        "NAME": "Baldum"
+    },
+    
+    "506": {
+        "NAME_CASE1": "_DarkKnight",
+        "NAME_CASE2": "506_DarkKnight",
+        "BYTES_INFO": "506_DarkKnight_actorinfo.bytes",
+        "LOD": "_DarkKnight",
+        "NAME": "Omen"
+    },
+    
+    "507": {
+        "NAME_CASE1": "_Flash",
+        "NAME_CASE2": "507_Flash",
+        "BYTES_INFO": "507_Flash_actorinfo.bytes",
+        "LOD": "_Flash",
+        "NAME": "Flash"
+    },
+    
+    "508": {
+        "NAME_CASE1": "_Zhadanren",
+        "NAME_CASE2": "508_Zhadanren",
+        "BYTES_INFO": "508_Zhadanren_actorinfo.bytes",
+        "LOD": "_Zhadanren",
+        "NAME": "Wisp"
+    },
+    
+    "509": {
+        "NAME_CASE1": "_Ybneth",
+        "NAME_CASE2": "509_Ybneth",
+        "BYTES_INFO": "509_Ybneth_actorinfo.bytes",
+        "LOD": "_Ybneth",
+        "NAME": "Y'Bneth"
+    },
+    
+    "510": {
+        "NAME_CASE1": "_Liliana",
+        "NAME_CASE2": "510_Liliana",
+        "BYTES_INFO": "510_Liliana_actorinfo.bytes",
+        "LOD": "_Liliana",
+        "NAME": "Liliana"
+    },
+    
+    "511": {
+        "NAME_CASE1": "_zhubajie",
+        "NAME_CASE2": "511_ZhuBaJie",
+        "BYTES_INFO": "511_ZhuBaJie_actorinfo.bytes",
+        "LOD": "_ZhuBaJie",
+        "NAME": "Ata"
+    },
+    
+    "512": {
+        "NAME_CASE1": "_Rourke",
+        "NAME_CASE2": "512_Rourke",
+        "BYTES_INFO": "512_Rourke_actorinfo.bytes",
+        "LOD": "_Rourke",
+        "NAME": "Rourke"
+    },
+    
+    "513": {
+        "NAME_CASE1": "_shusheng",
+        "NAME_CASE2": "513_ShuSheng",
+        "BYTES_INFO": "513_ShuSheng_actorinfo.bytes",
+        "LOD": "_ShuSheng",
+        "NAME": "Zata"
+    },
+    
+    "514": {
+        "NAME_CASE1": "_Roxi",
+        "NAME_CASE2": "514_Roxi",
+        "BYTES_INFO": "514_Roxi_actorinfo.bytes",
+        "LOD": "_Roxi",
+        "NAME": "Roxie"
+    },
+    
+    "515": {
+        "NAME_CASE1": "_Richter",
+        "NAME_CASE2": "515_Richter",
+        "BYTES_INFO": "515_Richter_actorinfo.bytes",
+        "LOD": "_Richter",
+        "NAME": "Riktor"
+    },
+    
+    "518": {
+        "NAME_CASE1": "_Quillen",
+        "NAME_CASE2": "518_Quillen",
+        "BYTES_INFO": "518_Quillen_actorinfo.bytes",
+        "LOD": "_Quillen",
+        "NAME": "Quillen"
+    },
+    
+    "519": {
+        "NAME_CASE1": "_Annette",
+        "NAME_CASE2": "519_Annette",
+        "BYTES_INFO": "519_Annette_actorinfo.bytes",
+        "LOD": "_Annette",
+        "NAME": "Annette"
+    },
+    
+    "520": {
+        "NAME_CASE1": "_Veres",
+        "NAME_CASE2": "520_Veres",
+        "BYTES_INFO": "520_Veres_actorinfo.bytes",
+        "LOD": "_Veres",
+        "NAME": "Veres"
+    },
+    
+    "521": {
+        "NAME_CASE1": "_Florentino",
+        "NAME_CASE2": "521_Florentino",
+        "BYTES_INFO": "521_Florentino_actorinfo.bytes",
+        "LOD": "_Florentino",
+        "NAME": "Florentino"
+    },
+    
+    "522": {
+        "NAME_CASE1": "_Errol",
+        "NAME_CASE2": "522_Errol",
+        "BYTES_INFO": "522_Errol_actorinfo.bytes",
+        "LOD": "_Errol",
+        "NAME": "Errol"
+    },
+    
+    "523": {
+        "NAME_CASE1": "_Darcy",
+        "NAME_CASE2": "523_Darcy",
+        "BYTES_INFO": "523_Darcy_actorinfo.bytes",
+        "LOD": "_Darcy",
+        "NAME": "D'Arcy"
+    },
+    
+    "524": {
+        "NAME_CASE1": "_Capheny",
+        "NAME_CASE2": "524_Capheny",
+        "BYTES_INFO": "524_Capheny_actorinfo.bytes",
+        "LOD": "_Capheny",
+        "NAME": "Capheny"
+    },
+    
+    "525": {
+        "NAME_CASE1": "_Driver",
+        "NAME_CASE2": "525_Driver",
+        "BYTES_INFO": "525_Driver_actorinfo.bytes",
+        "LOD": "_Driver",
+        "NAME": "Zip"
+    },
+    
+    "526": {
+        "NAME_CASE1": "_Summoner",
+        "NAME_CASE2": "526_Summoner",
+        "BYTES_INFO": "526_Summoner_actorinfo.bytes",
+        "LOD": "_Summoner",
+        "NAME": "Ishar"
+    },
+    
+    "527": {
+        "NAME_CASE1": "_Sephera",
+        "NAME_CASE2": "527_Sephera",
+        "BYTES_INFO": "527_Sephera_actorinfo.bytes",
+        "LOD": "_Sephera",
+        "NAME": "Sephera"
+    },
+    
+    "528": {
+        "NAME_CASE1": "_DaMo",
+        "NAME_CASE2": "528_DaMo",
+        "BYTES_INFO": "528_DaMo_actorinfo.bytes",
+        "LOD": "_DaMo",
+        "NAME": "Qi"
+    },
+    
+    "529": {
+        "NAME_CASE1": "_Volkath",
+        "NAME_CASE2": "529_Volkath",
+        "BYTES_INFO": "529_Volkath_actorinfo.bytes",
+        "LOD": "_Volkath",
+        "NAME": "Volkath"
+    },
+    
+    "530": {
+        "NAME_CASE1": "_Dirak",
+        "NAME_CASE2": "530_Dirak",
+        "BYTES_INFO": "530_Dirak_actorinfo.bytes",
+        "LOD": "_Dirak",
+        "NAME": "Dirak"
+    },
+    
+    "531": {
+        "NAME_CASE1": "_keera",
+        "NAME_CASE2": "531_Keera",
+        "BYTES_INFO": "531_Keera_actorinfo.bytes",
+        "LOD": "_Keera",
+        "NAME": "Keera"
+    },
+    
+    "532": {
+        "NAME_CASE1": "_Genius",
+        "NAME_CASE2": "532_Genius",
+        "BYTES_INFO": "532_Genius_actorinfo.bytes",
+        "LOD": "_Genius",
+        "NAME": "Thorne"
+    },
+    
+    "533": {
+        "NAME_CASE1": "_HouYi",
+        "NAME_CASE2": "533_HouYi",
+        "BYTES_INFO": "533_HouYi_actorinfo.bytes",
+        "LOD": "_HouYi",
+        "NAME": "Laville"
+    },
+    
+    "534": {
+        "NAME_CASE1": "_Grantwish",
+        "NAME_CASE2": "534_Grantwish",
+        "BYTES_INFO": "534_Grantwish_actorinfo.bytes",
+        "LOD": "_Grantwish",
+        "NAME": "Dextra"
+    },
+    
+    "535": {
+        "NAME_CASE1": "_Wish",
+        "NAME_CASE2": "535_Wish",
+        "BYTES_INFO": "535_Wish_actorinfo.bytes",
+        "LOD": "_Wish",
+        "NAME": "Sinestrea"
+    },
+    
+    "536": {
+        "NAME_CASE1": "_Ninja",
+        "NAME_CASE2": "536_Ninja",
+        "BYTES_INFO": "536_Ninja_actorinfo.bytes",
+        "LOD": "_Ninja",
+        "NAME": "Aoi"
+    },
+    
+    "537": {
+        "NAME_CASE1": "_Trip",
+        "NAME_CASE2": "537_Trip",
+        "BYTES_INFO": "537_Trip_actorinfo.bytes",
+        "LOD": "_Trip",
+        "NAME": "Allain"
+    },
+    
+    "538": {
+        "NAME_CASE1": "_Iggy",
+        "NAME_CASE2": "538_Iggy",
+        "BYTES_INFO": "538_Iggy_actorinfo.bytes",
+        "LOD": "_Iggy",
+        "NAME": "Iggy"
+    },
+    
+    "539": {
+        "NAME_CASE1": "_Nott",
+        "NAME_CASE2": "539_Nott",
+        "BYTES_INFO": "539_Nott_actorinfo.bytes",
+        "LOD": "_Nott",
+        "NAME": "Lorion"
+    },
+    
+    "540": {
+        "NAME_CASE1": "_Bright",
+        "NAME_CASE2": "540_Bright",
+        "BYTES_INFO": "540_Bright_actorinfo.bytes",
+        "LOD": "_Bright",
+        "NAME": "Bright"
+    },
+
+    "541": {
+        "NAME_CASE1": "_Bonnie",
+        "NAME_CASE2": "541_Bonnie",
+        "BYTES_INFO": "541_Bonnie_actorinfo.bytes",
+        "LOD": "_Bonnie",
+        "NAME": "Bonnie"
+    },
+
+    "542": {
+        "NAME_CASE1": "_Tachi",
+        "NAME_CASE2": "542_Tachi",
+        "BYTES_INFO": "542_Tachi_actorinfo.bytes",
+        "LOD": "_Tachi",
+        "NAME": "Tachi"
+    },
+    
+    "543": {
+        "NAME_CASE1": "_yao",
+        "NAME_CASE2": "543_Yao",
+        "BYTES_INFO": "543_Yao_actorinfo.bytes",
+        "LOD": "_Yao",
+        "NAME": "Aya"
+    },
+    
+    "544": {
+        "NAME_CASE1": "_Painter",
+        "NAME_CASE2": "544_Painter",
+        "BYTES_INFO": "544_Painter_actorinfo.bytes",
+        "LOD": "_Painter",
+        "NAME": "Yan"
+    },
+
+    "545": {
+        "NAME_CASE1": "_Aim",
+        "NAME_CASE2": "545_Aim",
+        "BYTES_INFO": "545_Aim_actorinfo.bytes",
+        "LOD": "_Aim",
+        "NAME": "Yue"
+    },
+
+    "546": {
+        "NAME_CASE1": "_Hecate",
+        "NAME_CASE2": "546_Hecate",
+        "BYTES_INFO": "546_Hecate_actorinfo.bytes",
+        "LOD": "_Hecate",
+        "NAME": "Helan"
+    },
+
+    "570": {
+        "NAME_CASE1": "_YuJi",
+        "NAME_CASE2": "570_YuJi",
+        "BYTES_INFO": "570_YuJi_actorinfo.bytes",
+        "LOD": "_YuJi",
+        "NAME": ""
+    }
+}
+
+
+
