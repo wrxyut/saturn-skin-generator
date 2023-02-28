@@ -128,6 +128,7 @@ def main():
         time.sleep(5)
 
     pause()
+    clear()
     main()
 
 if __name__ == "__main__":
