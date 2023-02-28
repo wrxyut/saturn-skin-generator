@@ -26,7 +26,7 @@ Saturn Skin Generator v1.0 (Supports Arena of Valor Game Patch 1.49.1 etc.)
 Author  : Curelight (wrxyut)
 Github  : https://github.com/wrxyut
 Discord : Wrxyut#0880
-Url     : 
+Url     : https://github.com/wrxyut/saturn-skin-generator.git
 
 Saturn under the GNU GENERAL PUBLIC LICENSE Version3 (2007).
 You are free to modify this source.
